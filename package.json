@@ -1,0 +1,47 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.2",
+    "@chakra-ui/react": "^2.2.1",
+    "@chakra-ui/theme-tools": "^2.0.2",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.9.0",
+    "@types/cookie": "^0.5.1",
+    "@types/http-proxy": "^1.17.9",
+    "@types/spotify-web-playback-sdk": "^0.1.12",
+    "cookie": "^0.5.0",
+    "cookies": "^0.8.0",
+    "framer-motion": "^6.3.0",
+    "http-proxy": "^1.18.1",
+    "identity-obj-proxy": "^3.0.0",
+    "js-cookie": "^3.0.1",
+    "mongodb": "^4.7.0",
+    "next": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@shelf/jest-mongodb": "^3.0.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@types/jest": "^28.1.4",
+    "@types/node": "^18.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "babel-jest": "^28.1.2",
+    "dotenv": "^16.0.1",
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "^28.1.2",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.2"
+  }
+}
